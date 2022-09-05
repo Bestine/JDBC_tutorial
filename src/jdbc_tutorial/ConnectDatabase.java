@@ -30,5 +30,4 @@ public class ConnectDatabase {
 		System.out.println("CONNECTION ESTABLISHED!!!");
 		
 	}
-
 }
