@@ -1,6 +1,8 @@
 # JDBC tutorial
 This is a repoitory to track my learning of Java Database Connectivity
+<br>
 **Day 1**
+<br>
 * Connecting to the database
 Establishing connection
 **Day 2**
