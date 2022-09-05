@@ -27,6 +27,8 @@ public class ConnectDatabase {
 			e.printStackTrace();
 		}
 		
+		System.out.println("CONNECTION ESTABLISHED!!!");
+		
 	}
 
 }

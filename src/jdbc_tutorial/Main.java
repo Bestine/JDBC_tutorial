@@ -8,8 +8,10 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Mustafa");
-		Main establishConnection = new Main();
-		establishConnection.createConnection();
+		ConnectDatabase connectDatabase = new ConnectDatabase();
+		connectDatabase.createConnection();
+//		Main establishConnection = new Main();
+//		establishConnection.createConnection();
 		
 	}
 	void createConnection() {
