@@ -8,4 +8,4 @@ Established the Connection
 ## Day 3
 * Inserting Data to MySQL
 ## Day 4
-*
+*Using Prepared Statements
