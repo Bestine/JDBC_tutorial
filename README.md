@@ -9,3 +9,6 @@ Established the Connection
 * Inserting Data to MySQL
 ## Day 4
 * Using Prepared Statements
+## Day 5
+* Display data on table
+* Create table on database
